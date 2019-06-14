@@ -1,7 +1,7 @@
 Scraping-go
 ====
 
-Go言語で複数サイトのWebスクレイピングに対応したクローラー
+一种爬虫，支持使用Go语言对多个站点进行Web抓取
 
 ## Description
 
@@ -9,7 +9,7 @@ TBD
 
 ## Requirement
 
-- docker-compose実行環境
+- docker-compose运行
 
 ## Usage & Install
 
